@@ -65,7 +65,7 @@
 ## Relative Doc
 
 
-- [Introduction to command line arguments at startup](http://flightgear.sourceforge.net/getstart-en/getstart-enpa2.html)
+- [Introduction (command line arguments)](http://flightgear.sourceforge.net/getstart-en/getstart-enpa2.html)
 
 - [telnet help](http://wiki.flightgear.org/Telnet_usage#nasal?tdsourcetag=s_pctim_aiomsg) **this is very important for using telnet, please read carefully**
 
